@@ -11,7 +11,7 @@
 <!-- Quick Links -->
 <p align="center">
     <a href="LICENSE"><b>📄 License</b></a> •
-    <a href="#demo"><b>🖥️ Demo</b></a> •
+    <a href="https://huggingface.co/spaces/Tencent/Youtu-Parsing"><b>🖥️ Demo</b></a> •
     <a href="#quick-start"><b>🚀 Quick Start</b></a> •
     <a href="#performance"><b>📊 Performance</b></a> •
     <!-- <a href="#-citation"><b>📄 Technical Report</b></a> • -->
@@ -176,19 +176,6 @@ Our comprehensive evaluation demonstrates Youtu-Parsing's superior performance a
 <div align="center">
 <img src="./assets/chart2.png" width="800"/>
 </div>
-
----
-
-<a id="demo"></a>
-
-## 🖥️ Demo
-
-Experience Youtu-Parsing in action through our interactive online demo:
-
-🌐 **[Try Online Demo](https://huggingface.co/spaces/Tencent/Youtu-Parsing)** - Parse documents directly in your browser with our Hugging Face Space.
-
-
-
 
 ---
 
