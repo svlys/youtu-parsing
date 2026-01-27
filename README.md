@@ -177,20 +177,6 @@ Our comprehensive evaluation demonstrates Youtu-Parsing's superior performance a
 <img src="./assets/chart2.png" width="800"/>
 </div>
 
-### Seal Recognition
-<div align="center">
-<img src="./assets/seal.png" width="800"/>
-</div>
-
-### Hierarchical Recognition
-<div align="center">
-<img src="./assets/hierarchical.png" width="800"/>
-</div>
-
-<div align="center">
-<img src="./assets/hierarchical2.png" width="800"/>
-</div>
-
 ---
 
 <a id="demo"></a>
@@ -201,12 +187,12 @@ Experience Youtu-Parsing in action through our interactive online demo:
 
 🌐 **[Try Online Demo](https://huggingface.co/spaces/Tencent/Youtu-Parsing)** - Parse documents directly in your browser with our Hugging Face Space.
 
-> **🚧 Note**: The demo space is currently under construction. We're actively working on improvements and will have it fully available soon!
+
 
 
 ---
 
-## 🙏 Acknowledgments
+## 🤝 Acknowledgments
 
 We extend our gratitude to the following projects and communities that made Youtu-Parsing possible:
 
